@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Tata/Desktop/alfinnurrochali/app/src/main/res/drawable/ic_baseline_attach_money_24.xml" value="0.19722222222222222" />
+        <entry key="..\:/Users/Tata/Desktop/alfinnurrochali/app/src/main/res/drawable/ic_baseline_insert_emoticon_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/Tata/Desktop/alfinnurrochali/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.19722222222222222" />
+        <entry key="..\:/Users/Tata/Desktop/alfinnurrochali/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.19722222222222222" />
+        <entry key="..\:/Users/Tata/Desktop/alfinnurrochali/app/src/main/res/drawable/ic_baseline_policy_24.xml" value="0.19722222222222222" />
+        <entry key="..\:/Users/Tata/Desktop/alfinnurrochali/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19722222222222222" />
+        <entry key="..\:/Users/Tata/Desktop/alfinnurrochali/app/src/main/res/drawable/ic_untitled__4_.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Tata/Desktop/alfinnurrochali/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Tata/Desktop/alfinnurrochali/app/src/main/res/layout/app_bar_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Tata/Desktop/alfinnurrochali/app/src/main/res/layout/content_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Tata/Desktop/alfinnurrochali/app/src/main/res/layout/fragment_hargapotong.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Tata/Desktop/alfinnurrochali/app/src/main/res/layout/fragment_logout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Tata/Desktop/alfinnurrochali/app/src/main/res/layout/fragment_modelrambut.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Tata/Desktop/alfinnurrochali/app/src/main/res/layout/fragment_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Tata/Desktop/alfinnurrochali/app/src/main/res/layout/nav_header_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Tata/Desktop/alfinnurrochali/app/src/main/res/menu/activity_main_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Tata/Desktop/alfinnurrochali/app/src/main/res/menu/main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Tata/Desktop/alfinnurrochali/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2203125" />
+        <entry key="..\:/alfinnurrochali/app/src/main/res/drawable/ic_baseline_attach_money_24.xml" value="0.14322916666666666" />
+        <entry key="..\:/alfinnurrochali/app/src/main/res/drawable/ic_baseline_insert_emoticon_24.xml" value="0.14322916666666666" />
+        <entry key="..\:/alfinnurrochali/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.26205128205128203" />
+        <entry key="..\:/alfinnurrochali/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.26205128205128203" />
+        <entry key="..\:/alfinnurrochali/app/src/main/res/drawable/side_nav_bar.xml" value="0.26205128205128203" />
+        <entry key="..\:/alfinnurrochali/app/src/main/res/layout/activity_main.xml" value="0.1816123188405797" />
+        <entry key="..\:/alfinnurrochali/app/src/main/res/layout/app_bar_main.xml" value="0.17481884057971014" />
+        <entry key="..\:/alfinnurrochali/app/src/main/res/layout/content_main.xml" value="0.17481884057971014" />
+        <entry key="..\:/alfinnurrochali/app/src/main/res/layout/fragment_hargapotong.xml" value="0.11141304347826086" />
+        <entry key="..\:/alfinnurrochali/app/src/main/res/layout/fragment_logout.xml" value="0.1" />
+        <entry key="..\:/alfinnurrochali/app/src/main/res/layout/fragment_modelrambut.xml" value="0.11141304347826086" />
+        <entry key="..\:/alfinnurrochali/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/alfinnurrochali/app/src/main/res/layout/fragment_riwayat.xml" value="0.1816123188405797" />
+        <entry key="..\:/alfinnurrochali/app/src/main/res/layout/fragment_stokbarang.xml" value="0.1816123188405797" />
+        <entry key="..\:/alfinnurrochali/app/src/main/res/layout/nav_header_main.xml" value="0.1816123188405797" />
+        <entry key="..\:/alfinnurrochali/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/alfinnurrochali/app/src/main/res/menu/main.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

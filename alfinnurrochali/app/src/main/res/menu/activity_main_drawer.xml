@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_baseline_person_24"
+            android:title="Profile" />
+    </group>
+    <item android:title="Worklist">
+        <menu>
+            <item
+                android:id="@+id/nav_modelrambut"
+                android:icon="@drawable/ic_baseline_insert_emoticon_24"
+                android:title="Model Rambut" />
+            <item
+                android:id="@+id/nav_hargapotong"
+                android:icon="@drawable/ic_baseline_attach_money_24"
+                android:title="Harga Potong" />
+        </menu>
+    </item>
+    <item android:title="App">
+        <menu>
+            <item
+                android:id="@+id/nav_police"
+                android:icon="@drawable/ic_baseline_policy_24"
+                android:title="Police" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_baseline_login_24"
+                android:title="logout" />
+        </menu>
+    </item>
+</menu>
